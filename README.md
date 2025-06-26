@@ -44,6 +44,14 @@ A full-stack social productivity platform where users can form coding groups, tr
 
 ## ⚙️ Setup Instructions
 
+### 🔧 Frontend
+```bash
+cd frontend
+npm install
+ng serve
+
+```
+
 ### 🔧 Backend
 
 ```bash
