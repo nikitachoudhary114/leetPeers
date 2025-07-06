@@ -37,6 +37,9 @@ A full-stack social productivity platform where users can form coding groups, tr
 | Real-Time   | Socket.io, WebRTC        |
 | AI API      | OpenAI (GPT-3/Codex)     |
 | Deployment  | Render / Vercel / Railway|
+| Caching     | Redis                    |
+| Containers  | Docker, Docker Compose   |
+
 
 ---
 
